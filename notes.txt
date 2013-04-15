@@ -1,0 +1,8 @@
+
+This is the basic basic flow for a login.
+
+Ideally everything and I mean everything should be sanitized like $_POST, $_GET to ensure 
+security from evil hAx0rs i.e. script kiddies who have no clue what they are
+actually doing.
+
+Anyways thats that.
